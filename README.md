@@ -127,7 +127,7 @@ Es un modelo robusto que no requiere tanto preprocesamiento, lo que lo hace muy 
 | **Ponderado promedio** | 0.96    | 0.96   | 0.96     | 171     |
 
 **Matriz de confusión**
-<img src="img/3.png" width="400" align="center"/>
+<img src="img/3.png" width="500" align="center"/>
 
 **ÍNDICE ADICIONAL PARA COMPARAR: AUC-ROC**
 - Ambos modelos se desempeñaron excelentemente gracias al correcto preprocesamiento.
