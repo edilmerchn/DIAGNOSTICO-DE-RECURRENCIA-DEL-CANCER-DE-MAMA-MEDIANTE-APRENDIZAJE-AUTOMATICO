@@ -78,21 +78,25 @@ Se evaluaron diferentes clasificadores y se midió su desempeño con las siguien
 - **Puntaje F1**
 - **Matriz de Confusión**
 
-  ## Contiene:
+## Archivos:
 
-    breast_cancer_diagnosis.ipynb: cuaderno de diagnóstico
+   **breast_cancer_diagnosis.ipynb: cuaderno de diagnóstico**
 
-    README.md: detallado, con explicación del proyecto
+   **README.md: detallado, con explicación del proyecto**
 
-    requirements.txt: librerías necesarias
+    **requirements.txt: librerías necesarias**
 
-    models/ysa_model.h5: placeholder del modelo
+    **dataset/wdbc.data: muestra de dataset**
 
-    dataset/breastcancer.csv: muestra de dataset
+## Resultados del proyecto:
+  1. Rendimiento de los modelos de aprendizaje automático
 
-    pages/: HTML para la web (principal, predicción, sobre mí)
 
-    app.py y api_implementation.py: backend FastAPI
+
+  2. Métricas de evaluación del modelo:
+
+
+## Conclusión:
 
 Esto permitió seleccionar el modelo con mayor potencial diagnóstico en función del dataset disponible.
 
