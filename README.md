@@ -56,7 +56,8 @@ pip install -r requirements.txt
 
 3. **Ejecuta el notebook**
 ```bash
-jupyter notebook notebooks/diagnostico_cancer_mama.ipynb
+jupyter notebook notebooks/DIAGNOSTICO_TEMPRANO_DEL_CANCER_DE_MAMA_MEDIANTE_APRENDIZAJE_AUTOMATICO
+.ipynb
 ```
 
 ## Evaluación de Modelos
