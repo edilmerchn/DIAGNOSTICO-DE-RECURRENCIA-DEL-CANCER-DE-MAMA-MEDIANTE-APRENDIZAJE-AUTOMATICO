@@ -136,13 +136,25 @@ Es un modelo robusto que no requiere tanto preprocesamiento, lo que lo hace muy 
 - El uso de índices adicionales como AUC y Kappa fue clave para hacer una comparación más justa y robusta entre los modelos.
 Este análisis demuestra que la preparación de los datos tiene un gran impacto en el rendimiento final de cualquier modelo de machine learning.
 **Matriz de confusión**
-<img src="img/4.png" width="400" align="center"/>
+<img src="img/4.png" width="500" align="center"/>
 
-</body>
-## Conclusión:
+
+## Conclusiónes:
+
+- Los modelos de **Regresión Logística** y **XGBoost** alcanzaron altos niveles de precisión (96 % y 97 % respectivamente), demostrando su efectividad en la detección temprana del cáncer de mama.
+
+- El preprocesamiento (normalización, codificación binaria y división de datos) fue clave para mejorar el rendimiento de los modelos.
+
+- Las métricas del modelo final (accuracy: 96 %, sensibilidad: 94 %, especificidad: 98 %) muestran una alta capacidad para identificar correctamente tanto casos benignos como malignos.
+
+- Se implementó una **API con FastAPI** y una interfaz web funcional para facilitar el uso del sistema por parte de usuarios o profesionales.
+
+- Este proyecto sienta las bases para una herramienta de diagnóstico automatizado accesible, con potencial de ampliación hacia redes neuronales más avanzadas en el futuro.
+
 
 Esto permitió seleccionar el modelo con mayor potencial diagnóstico en función del dataset disponible.
 
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT, lo que permite su uso, modificación y distribución con atribución adecuada.
+</body>
