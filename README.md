@@ -8,7 +8,7 @@ Este proyecto utiliza técnicas de aprendizaje automático para predecir de mane
 <body>
 
 <img src="img/1.png" width="400" align="right"/>
-
+</body>
 El conjunto de datos utilizado en este proyecto es el conjunto de datos de https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic, que consta de características calculadas a partir de una imagen digitalizada de una aspiración con aguja fina (PAAF) de una masa mamaria. La variable objetivo indica si la masa es benigna (0) o maligna (1).
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -107,10 +107,10 @@ Esto demuestra que, incluso modelos simples como la regresión logística, puede
 | **Accuracy**        | 0.98 | — | — | 171 |
 | **Macro promedio**  | 0.99 | 0.98 | 0.98 | 171 |
 | **Ponderado promedio** | 0.98 | 0.98 | 0.98 | 171 |
-
+<body>
 **Matriz de confusión**
 <img src="img/2.png" width="400" align="right"/>
-
+</body>
   3. Métricas de evaluación del modelo:
 
 
