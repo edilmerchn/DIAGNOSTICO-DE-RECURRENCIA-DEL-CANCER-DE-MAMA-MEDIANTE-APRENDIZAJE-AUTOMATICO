@@ -95,7 +95,7 @@ El modelo de regresión logística se desempeñó excelentemente con los datos p
 Gracias a la eliminación de variables poco informativas y colineales, y al escalado adecuado, el modelo logró un desempeño muy cercano al ideal, clasificando correctamente 168 de 171 casos.
 Esto demuestra que, incluso modelos simples como la regresión logística, pueden alcanzar gran precisión cuando se aplican buenas prácticas de análisis exploratorio y preparación de datos.
 
-**Reporte de Clasificación**
+**Reporte de Clasificación regresión logística**
 
 | Clase | Precisión | Recall | F1-score | Soporte |
 |-------|-----------|--------|----------|---------|
@@ -108,7 +108,8 @@ Esto demuestra que, incluso modelos simples como la regresión logística, puede
 | **Macro promedio**  | 0.99 | 0.98 | 0.98 | 171 |
 | **Ponderado promedio** | 0.98 | 0.98 | 0.98 | 171 |
 
-
+**Matriz de confusión**
+<img src="img/2.png" width="400" align="right"/>
 
   3. Métricas de evaluación del modelo:
 
