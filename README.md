@@ -16,4 +16,4 @@ Este proyecto explora técnicas de aprendizaje automático para detectar tempran
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/edilmerchn/DIAGNOSTICO_TEMPRANO_DEL_CANCER_DE_MAMA_MEDIANTE_APRENDIZAJE_AUTOMATICO
-   cd diagnostico-cancer-mama
+   cd DIAGNOSTICO_TEMPRANO_DEL_CANCER_DE_MAMA_MEDIANTE_APRENDIZAJE_AUTOMATICO
