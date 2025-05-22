@@ -109,7 +109,7 @@ Esto demuestra que, incluso modelos simples como la regresión logística, puede
 | **Ponderado promedio** | 0.98 | 0.98 | 0.98 | 171 |
 
 **Matriz de confusión**
-<img src="img/2.png" width="400" align="right"/>
+<img src="img/2.png" width="400" align="center"/>
 
   3. Métricas de evaluación del modelo:
 
