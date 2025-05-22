@@ -129,8 +129,14 @@ Es un modelo robusto que no requiere tanto preprocesamiento, lo que lo hace muy 
 **Matriz de confusión**
 <img src="img/3.png" width="400" align="center"/>
 
-
-  3. Métricas de evaluación del modelo:
+**ÍNDICE ADICIONAL PARA COMPARAR: AUC-ROC**
+- Ambos modelos se desempeñaron excelentemente gracias al correcto preprocesamiento.
+- La regresión logística superó levemente a XGBoost en este caso específico, probablemente por la linealidad y simplicidad de los datos.
+- XGBoost sigue siendo un modelo potente, especialmente útil en datasets con relaciones no lineales o sin necesidad de escalar variables.
+- El uso de índices adicionales como AUC y Kappa fue clave para hacer una comparación más justa y robusta entre los modelos.
+Este análisis demuestra que la preparación de los datos tiene un gran impacto en el rendimiento final de cualquier modelo de machine learning.
+**Matriz de confusión**
+<img src="img/4.png" width="400" align="center"/>
 
 </body>
 ## Conclusión:
