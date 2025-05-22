@@ -7,7 +7,7 @@ Este proyecto utiliza técnicas de aprendizaje automático para predecir de mane
 </head>
 <body>
 
-<img src="img/1.png" width="300" align="right"/>
+<img src="img/1.png" width="400" align="right"/>
 
 El conjunto de datos utilizado en este proyecto es el conjunto de datos de https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic, que consta de características calculadas a partir de una imagen digitalizada de una aspiración con aguja fina (PAAF) de una masa mamaria. La variable objetivo indica si la masa es benigna (0) o maligna (1).
 
