@@ -3,6 +3,8 @@
 Este proyecto utiliza técnicas de aprendizaje automático para predecir de manera temprana la presencia de cáncer de mama, empleando datos públicos de características clínicas de pacientes. El objetivo es desarrollar modelos que asistan a profesionales de la salud en el diagnóstico predictivo, mejorando así la velocidad y precisión del proceso.
 
 ## Descripción del Proyecto
+## Conjunto de datos
+El conjunto de datos utilizado en este proyecto es el conjunto de datos de https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic, que consta de características calculadas a partir de una imagen digitalizada de una aspiración con aguja fina (PAAF) de una masa mamaria. La variable objetivo indica si la masa es benigna (0) o maligna (1).
 
 El cuaderno contiene el flujo completo de un proyecto de *machine learning* aplicado a datos médicos, incluyendo:
 
