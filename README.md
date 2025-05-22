@@ -5,7 +5,7 @@ Este proyecto utiliza técnicas de aprendizaje automático para predecir de mane
 ## Descripción del Proyecto
 ## Conjunto de datos
 </head>
-
+<body>
 
 <img src="img/1.png" width="400" align="right"/>
 
