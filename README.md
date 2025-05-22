@@ -5,7 +5,7 @@ Este proyecto utiliza técnicas de aprendizaje automático para predecir de mane
 ## Descripción del Proyecto
 ## Conjunto de datos
 </head>
-<body>
+
 
 <img src="img/1.png" width="400" align="right"/>
 </body>
@@ -110,10 +110,10 @@ Esto demuestra que, incluso modelos simples como la regresión logística, puede
 <body>
 **Matriz de confusión**
 <img src="img/2.png" width="400" align="right"/>
-</body>
+
   3. Métricas de evaluación del modelo:
 
-
+</body>
 ## Conclusión:
 
 Esto permitió seleccionar el modelo con mayor potencial diagnóstico en función del dataset disponible.
