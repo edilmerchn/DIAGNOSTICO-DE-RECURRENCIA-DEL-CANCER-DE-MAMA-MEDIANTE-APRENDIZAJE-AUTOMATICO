@@ -13,7 +13,7 @@ El conjunto de datos utilizado en este proyecto es el conjunto de datos de https
 
 <br><br><br><br><br><br><br><br><br><br>
 
-El cuaderno contiene el flujo completo de un proyecto de *machine learning* aplicado a datos médicos, incluyendo:
+El cuaderno "DIAGNOSTICO_TEMPRANO_DEL_CANCER_DE_MAMA_MEDIANTE_APRENDIZAJE_AUTOMATICO", contiene el flujo completo de un proyecto de *machine learning* aplicado a datos médicos, incluyendo:
 
 - Importación y exploración del conjunto de datos de cáncer de mama desde el repositorio UCI.
 - Limpieza y preprocesamiento de datos.
