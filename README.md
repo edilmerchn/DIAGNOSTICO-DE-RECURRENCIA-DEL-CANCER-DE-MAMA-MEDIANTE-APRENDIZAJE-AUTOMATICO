@@ -90,10 +90,27 @@ Se evaluaron diferentes clasificadores y se midió su desempeño con las siguien
 
 ## Resultados del proyecto:
   1. Rendimiento de los modelos de aprendizaje automático
+REGRESIÓN LOGÍSTICA
+El modelo de regresión logística se desempeñó excelentemente con los datos preprocesados.  
+Gracias a la eliminación de variables poco informativas y colineales, y al escalado adecuado, el modelo logró un desempeño muy cercano al ideal, clasificando correctamente 168 de 171 casos.
+Esto demuestra que, incluso modelos simples como la regresión logística, pueden alcanzar gran precisión cuando se aplican buenas prácticas de análisis exploratorio y preparación de datos.
+
+**Reporte de Clasificación**
+
+| Clase | Precisión | Recall | F1-score | Soporte |
+|-------|-----------|--------|----------|---------|
+| **0 (Benigno)** | 0.97 | 1.00 | 0.99 | 107 |
+| **1 (Maligno)** | 1.00 | 0.95 | 0.98 | 64 |
+
+| Métrica global | Precisión | Recall | F1-score | Soporte |
+|----------------|-----------|--------|----------|---------|
+| **Accuracy**        | 0.98 | — | — | 171 |
+| **Macro promedio**  | 0.99 | 0.98 | 0.98 | 171 |
+| **Ponderado promedio** | 0.98 | 0.98 | 0.98 | 171 |
 
 
 
-  2. Métricas de evaluación del modelo:
+  3. Métricas de evaluación del modelo:
 
 
 ## Conclusión:
