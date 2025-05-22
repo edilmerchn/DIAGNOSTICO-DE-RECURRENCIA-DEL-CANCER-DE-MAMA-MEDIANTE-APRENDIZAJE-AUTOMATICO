@@ -147,11 +147,6 @@ Este análisis demuestra que la preparación de los datos tiene un gran impacto 
 
 - Las métricas del modelo final (accuracy: 96 %, sensibilidad: 94 %, especificidad: 98 %) muestran una alta capacidad para identificar correctamente tanto casos benignos como malignos.
 
-- Se implementó una **API con FastAPI** y una interfaz web funcional para facilitar el uso del sistema por parte de usuarios o profesionales.
-
-- Este proyecto sienta las bases para una herramienta de diagnóstico automatizado accesible, con potencial de ampliación hacia redes neuronales más avanzadas en el futuro.
-
-
 Esto permitió seleccionar el modelo con mayor potencial diagnóstico en función del dataset disponible.
 
 ## Licencia
