@@ -4,7 +4,17 @@ Este proyecto utiliza técnicas de aprendizaje automático para predecir de mane
 
 ## Descripción del Proyecto
 ## Conjunto de datos
+## Dataset
+</head>
+<body>
+
+<img src="img/1.png" width="300" align="left"/>
+
 El conjunto de datos utilizado en este proyecto es el conjunto de datos de https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic, que consta de características calculadas a partir de una imagen digitalizada de una aspiración con aguja fina (PAAF) de una masa mamaria. La variable objetivo indica si la masa es benigna (0) o maligna (1).
+
+<br><br><br><br><br><br><br><br><br><br>
+<img src="img/2.png"/>
+</body>
 
 El cuaderno contiene el flujo completo de un proyecto de *machine learning* aplicado a datos médicos, incluyendo:
 
