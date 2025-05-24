@@ -82,8 +82,6 @@ Se evaluaron diferentes clasificadores y se midió su desempeño con las siguien
 
    **breast_cancer_diagnosis.ipynb: cuaderno de diagnóstico**
 
-   **README.md: detallado, con explicación del proyecto**
-
     **requirements.txt: librerías necesarias**
 
     **dataset/wdbc.data: muestra de dataset**
