@@ -21,7 +21,7 @@ A continuación se presenta una tabla comparativa con las métricas más relevan
 Las siguientes figuras muestran el desempeño de cada modelo al clasificar correctamente (o no) los casos de recurrencia y no recurrencia:
 
 ### Regresión Logística
-![Matriz de Confusión - Regresión Logística](ruta/a/la/imagen1.jpg)
+![Matriz de Confusión - Regresión Logística](img/imagen1.jpg)
 
 - 51 verdaderos negativos
 - 8 falsos positivos
@@ -29,7 +29,7 @@ Las siguientes figuras muestran el desempeño de cada modelo al clasificar corre
 - 8 verdaderos positivos
 
 ### Árbol de Decisión
-![Matriz de Confusión - Árbol de Decisión](ruta/a/la/imagen2.jpg)
+![Matriz de Confusión - Árbol de Decisión](img/imagen2.jpg)
 
 - 48 verdaderos negativos
 - 11 falsos positivos
@@ -37,7 +37,7 @@ Las siguientes figuras muestran el desempeño de cada modelo al clasificar corre
 - 10 verdaderos positivos
 
 ### SVM con Kernel RBF
-![Matriz de Confusión - SVM con Kernel RBF](ruta/a/la/imagen3.jpg)
+![Matriz de Confusión - SVM con Kernel RBF](img/imagen3.jpg)
 
 - 55 verdaderos negativos
 - 4 falsos positivos
