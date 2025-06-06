@@ -1,4 +1,4 @@
-# DIAGNOSTICO TEMPRANO DEL CANCER DE MAMA MEDIANTE APRENDIZAJE AUTOMATICO
+# DIAGNOSTICO DE RECURRENCIA DEL CANCER DE MAMA MEDIANTE APRENDIZAJE AUTOMÁTICO
 
 Este proyecto utiliza técnicas de aprendizaje automático para predecir de manera temprana la presencia de cáncer de mama, empleando datos públicos de características clínicas de pacientes. El objetivo es desarrollar modelos que asistan a profesionales de la salud en el diagnóstico predictivo, mejorando así la velocidad y precisión del proceso.
 
