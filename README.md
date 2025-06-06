@@ -1,6 +1,35 @@
 # DIAGNOSTICO DE RECURRENCIA DEL CANCER DE MAMA MEDIANTE APRENDIZAJE AUTOMÁTICO
 
-Este proyecto utiliza técnicas de aprendizaje automático para predecir de manera temprana la presencia de cáncer de mama, empleando datos públicos de características clínicas de pacientes. El objetivo es desarrollar modelos que asistan a profesionales de la salud en el diagnóstico predictivo, mejorando así la velocidad y precisión del proceso.
+# Diagnóstico de Recurrencia del Cáncer de Mama mediante Aprendizaje Automático
+
+Este proyecto tiene como objetivo aplicar algoritmos de aprendizaje automático para predecir la recurrencia del cáncer de mama utilizando el conjunto de datos de Breast Cancer del repositorio UCI. Se evalúan tres modelos supervisados: Regresión Logística, Árbol de Decisión y Máquina de Vectores de Soporte (SVM) con núcleo RBF.
+
+## 📊 Modelos Implementados
+
+- Regresión Logística
+- Árbol de Decisión
+- SVM con kernel RBF
+
+## 📁 Estructura del Proyecto
+
+- `data/`: conjunto de datos preprocesado
+- `notebooks/`: análisis exploratorio, codificación, entrenamiento y evaluación de modelos
+- `models/`: archivos serializados de los modelos entrenados (opcional)
+- `results/`: matrices de confusión y métricas
+
+## ⚙️ Requisitos
+
+- Python 3.8+
+- scikit-learn
+- pandas
+- matplotlib
+- seaborn
+- numpy
+
+Instalar con:
+
+```bash
+pip install -r requirements.txt
 
 ## Descripción del Proyecto
 ## Conjunto de datos
