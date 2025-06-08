@@ -64,13 +64,12 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 
 ## Matrices de Confusión
 ### Regresión Logística
-<body>
 <img src="img/imagen1.jpg" align="center"/>
 ### Árbol de Decisión
 <img src="img/imagen2.jpg" align="center"/>
 ### SVM
 <img src="img/imagen3.jpg" align="center"/>
-</body>
+
 ---
 
 ## Análisis y Conclusiones
