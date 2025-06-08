@@ -61,15 +61,16 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 | Árbol de Decisión    | 69.0%    | 48%       | 40%    | 0.44     |
 | SVM (RBF kernel)     | 72.6%    | 60%       | 24%    | 0.34     |
 
-
+---
 ## Matrices de Confusión
-### Regresión Logística
+<body>
+Regresión Logística
 <img src="img/imagen1.jpg" align="center"/>
-### Árbol de Decisión
+Árbol de Decisión
 <img src="img/imagen2.jpg" align="center"/>
-### SVM
+SVM
 <img src="img/imagen3.jpg" align="center"/>
-
+<body/>
 ---
 
 ## Análisis y Conclusiones
