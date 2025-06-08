@@ -62,6 +62,7 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 | SVM (RBF kernel)     | 72.6%    | 60%       | 24%    | 0.34     |
 
 ---
+
 ## Matrices de Confusión
 <body>
 Regresión Logística
@@ -71,6 +72,7 @@ Regresión Logística
 SVM
 <img src="img/imagen3.jpg" align="center"/>
 <body/>
+  
 ---
 
 ## Análisis y Conclusiones
