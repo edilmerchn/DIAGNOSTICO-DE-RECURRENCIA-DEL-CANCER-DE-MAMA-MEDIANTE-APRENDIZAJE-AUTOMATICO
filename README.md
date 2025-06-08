@@ -5,7 +5,7 @@ Este repositorio presenta un proyecto completo de predicción de recurrencia del
 
 ---
 
-## 👨‍🏫 Institución
+## Institución
 **Facultad de Ingeniería – Universidad Autónoma de Occidente**
 
 **Asignatura:** Aprendizaje Automático  
@@ -21,7 +21,7 @@ Este repositorio presenta un proyecto completo de predicción de recurrencia del
 
 ---
 
-## 📊 Resumen del Proyecto
+## Resumen del Proyecto
 
 El cáncer de mama es una de las enfermedades más comunes entre las mujeres a nivel mundial. Este estudio aplica modelos de aprendizaje automático supervisado para predecir la **recurrencia** de cáncer de mama utilizando datos clínicos categóricos del repositorio **UCI Breast Cancer Dataset**. Los modelos evaluados incluyen:
 
@@ -31,7 +31,7 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - 286 registros de pacientes
 - 9 atributos categóricos y ordinales
@@ -40,7 +40,7 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 
 ---
 
-## 🧪 Preprocesamiento de Datos
+## Preprocesamiento de Datos
 
 - **Codificación:**
   - Binaria: `LabelEncoder` (node-caps, breast, irradiat, clase)
@@ -64,53 +64,32 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 | Árbol de Decisión    | 69.0%    | 48%       | 40%    | 0.44     |
 | SVM (RBF kernel)     | 72.6%    | 60%       | 24%    | 0.34     |
 
-> 🔍 *Todos los modelos presentaron dificultades para identificar correctamente los casos de recurrencia debido al desbalance de clases.*
 
+## Matrices de Confusión
+
+### Regresión Logística
+<body>
+<img src="img/imagen1.jpg" align="center"/>
+</body>
+### Árbol de Decisión
+<body>
+<img src="img/imagen2.jpg" align="center"/>
+</body>
+### SVM
+<body>
+<img src="img/imagen3.jpg" align="center"/>
+</body>
 ---
 
-## 📉 Matrices de Confusión
-
-### 🔹 Regresión Logística
-```
-TN=51, FP=8  
-FN=17, TP=8
-```
-
-### 🔹 Árbol de Decisión
-```
-TN=48, FP=11  
-FN=15, TP=10
-```
-
-### 🔹 SVM
-```
-TN=55, FP=4  
-FN=19, TP=6
-```
-
----
-
-## 🔎 Análisis y Conclusiones
+## Análisis y Conclusiones
 
 - El **modelo SVM** obtuvo mayor precisión general, pero baja sensibilidad (detectó pocos casos reales).
 - El **Árbol de Decisión** mostró el mejor balance entre recall y precisión.
 - La **Regresión Logística**, aunque simple e interpretable, tuvo el peor desempeño en recall.
 - Todos los modelos predijeron mejor la clase "no recurrencia", mostrando sesgo por el desbalance de datos.
 - Se recomienda aplicar técnicas de **reescalado**, **resampling (SMOTE)** o modelos **ensemble** para mejorar resultados.
-
 ---
-
-## 💡 Recomendaciones Futuras
-
-- Incorporar técnicas de balanceo (SMOTE, pesos en la pérdida)
-- Validación cruzada estratificada
-- Prueba de modelos avanzados (Random Forest, XGBoost)
-- Implementación en aplicación interactiva (Streamlit, FastAPI)
-- Uso de datos clínicos adicionales (genética, tratamientos)
-
----
-
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 ├── Proyecto_aprendizaje_automatico.ipynb    # Notebook principal
@@ -121,7 +100,7 @@ FN=19, TP=6
 
 ---
 
-## 🔧 Requisitos
+## Requisitos
 
 ```bash
 pip install pandas matplotlib seaborn ucimlrepo scikit-learn
@@ -129,7 +108,7 @@ pip install pandas matplotlib seaborn ucimlrepo scikit-learn
 
 ---
 
-## 📚 Referencias
+## Referencias
 
 1. Setlik et al. (2014). *American Journal of Cancer Research*  
 2. Duo et al. (2023). *BMC Medical Informatics and Decision Making*  
@@ -139,6 +118,6 @@ pip install pandas matplotlib seaborn ucimlrepo scikit-learn
 
 ---
 
-## 🧠 Licencia
+## Licencia
 
 Uso académico sin fines comerciales.
