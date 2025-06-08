@@ -54,9 +54,6 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 ---
 
 ## ⚙️ Modelos y Evaluación
-<body>
-<img src="img/imagen2.jpg" align="center"/>
-</body>
 
 | Modelo                | Accuracy | Precisión | Recall | F1-Score |
 |----------------------|----------|-----------|--------|----------|
@@ -66,17 +63,12 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 
 
 ## Matrices de Confusión
-
 ### Regresión Logística
 <body>
 <img src="img/imagen1.jpg" align="center"/>
-</body>
 ### Árbol de Decisión
-<body>
 <img src="img/imagen2.jpg" align="center"/>
-</body>
 ### SVM
-<body>
 <img src="img/imagen3.jpg" align="center"/>
 </body>
 ---
