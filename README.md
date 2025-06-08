@@ -55,7 +55,7 @@ El cáncer de mama es una de las enfermedades más comunes entre las mujeres a n
 
 ## ⚙️ Modelos y Evaluación
 <body>
-<img src="img/imagen1.png" align="center"/>
+<img src="img/imagen1.jpg" align="center"/>
 </body>
 
 | Modelo                | Accuracy | Precisión | Recall | F1-Score |
