@@ -12,12 +12,12 @@ Este repositorio presenta un proyecto completo de predicción de recurrencia del
 **Proyecto Final:** Diagnóstico de Recurrencia del Cáncer de Mama mediante ML  
 
 **Autores:**  
-- Juan Fernando Aldana – 2201173  
-- Marco Antonio Acosta – 2190289  
-- Juan Camilo León – 2190612  
-- Santiago Cortés Murcia – 2190365  
-- Julian David Velasquez Patiño – 2205142  
-- Edilmer Chachinoy Narváez – 22501262
+- Juan Fernando Aldana
+- Marco Antonio Acosta
+- Juan Camilo León
+- Santiago Cortés Murcia
+- Julian David Velasquez Patiño
+- Edilmer Chachinoy Narváez
 
 ---
 
